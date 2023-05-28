@@ -1,5 +1,5 @@
 Avinash Bawage
-Passionate Front-End Web App Developer | React.js | Next.js
+Passionate Front-End Web App Developer | React.js | Next.js | Redux | Rest Api
 
 👋 Welcome to my GitHub profile! I'm Avinash, a dedicated front-end developer specializing in web app development using React.js and Next.js. I have a strong passion for creating seamless user experiences and building performant applications.
 
