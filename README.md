@@ -17,4 +17,3 @@ HTML5, CSS3: Responsive design, CSS frameworks (such as Bootstrap, Tailwind CSS)
 
 📫 Let's connect and collaborate! Feel free to reach out to me through email or LinkedIn. I'm open to discussing exciting front-end web app projects, sharing ideas, and contributing to innovative development initiatives.
 
-Feel free to personalize this bio further by adding more details about your specific projects, achievements, or any other relevant information that highlights your expertise in front-end web app development using React.js and Next.js.
